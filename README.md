@@ -1,6 +1,6 @@
 # IBM-Project-10223-1659114439
 
-## Contribtors
+## Contributors
 
 | Allen Manoj | 
 | ------------- |
